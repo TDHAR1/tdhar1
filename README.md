@@ -10,8 +10,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://tdhar1.github.io#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://tdhar1.github.io#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://github.com/TDHAR1#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://github.com/TDHAR1#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/tushardhar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tushardhar#gh-dark-mode-only)
@@ -52,8 +52,8 @@
 
 [website]: https://linkedin.com/in/tushardhar
 [linkedin]: https://linkedin.com/in/tushardhar
-[Repo]: tdhar1.github.io
-[webdevplaylist]: tdhar1.github.io
-[jsplaylist]: tdhar1.github.io
-[cssplaylist]: tdhar1.github.io
-[reactplaylist]: tdhar1.github.io
+[Repo]:https://github.com/TDHAR1
+[webdevplaylist]:https://github.com/TDHAR1
+[jsplaylist]: https://github.com/TDHAR1
+[cssplaylist]: https://github.com/TDHAR1
+[reactplaylist]: https://github.com/TDHAR1
