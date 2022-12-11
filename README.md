@@ -1,11 +1,11 @@
 # Hi there, I'm Tushar 👋 
 
-## I'm an Engineer, Developer specializing in MERN technology stack!!
+## I'm an Engineer/Developer specializing in MERN technology stack!!
 
-- 🌱 I am MIT certified full stack developer [MIT bootcamp][MIT]
+- 🌱 I am MIT certified full stack developer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web dev 
-- 😻 Check out the full stack project repository I created: [Github Repo][Repo]
+- 😻 Check out the full stack project repository I created: [Projects][Repo]
 
 ### Connect with me:
 
@@ -30,21 +30,16 @@
 [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 <br />
 <br />
-
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
  <img align="left" alt="Tushar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tdhar1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
+[website]: https://linkedin.com/in/tushardhar
 [linkedin]: https://linkedin.com/in/tushardhar
 [Repo]: tdhar1.github.io
-[MIT]: https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/
